@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2? family= Alegreya+SC & display=swap');
+
+body {
+   background-color: rgb(239, 250, 255);
+}
+
+p {
+   margin: 1px;
+   font-weight:549;
+   font-size: 19px;
+}
+ .nas{ 
+   font-weight: 200;
+}
+.omy{
+   font-weight:509;
+
+}
+.container {
+   max-width: 750px;
+   margin: auto;
+ }
+
+ .bg-yellow1 {
+   background: #ebffd5;
+   border-radius: 60px;
+ }
+ .bg-yellow2 {
+   background: #e0fff8;
+   border-radius: 60px;
+ }
+ .avatar1 {
+   width: 318px;
+   border-radius: 40px;
+   box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+ }
+ .avatar2{
+   width: 143px;
+   border-radius: 40px;
+   box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+ }
+ .avatar3{
+   width: 143px;
+   border-radius: 40px;
+   box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+ }
+.avatar4{
+   width: 179px;
+   border-radius: 40px;
+   box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+ }
+ .avatar5 {
+   width: 173px;
+   border-radius: 40px;
+   box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+ }
+ .avatar6 {
+   width: 179px;
+   border-radius: 40px;
+   box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+ }
+ .avatar7 {
+   width: 127px;
+   border-radius: 40px;
+   box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+ }
+ 
